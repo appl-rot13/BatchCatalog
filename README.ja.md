@@ -10,6 +10,7 @@
 - [ExtractInterfaceName.bat](ExtractInterfaceName.bat) - 指定のIPアドレスが割り当てられているネットワークインタフェースの名称を取得します。
 - [SequentiallyRename.bat](SequentiallyRename.bat) - カレントディレクトリ内の全てのファイルを連番にリネームします。
 - [TurnOnMobileHotspot.bat](TurnOnMobileHotspot.bat) - WindowsのモバイルホットスポットをONにします。
+- [WakeOnLan.bat](WakeOnLan.bat) - Wake-on-LANのマジックパケットを送信します。
 
 ## ライセンス
 

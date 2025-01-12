@@ -10,6 +10,7 @@ Misc. batch files
 - [ExtractInterfaceName.bat](ExtractInterfaceName.bat) - Extract the network interface name to which the specified IP address is assigned.
 - [SequentiallyRename.bat](SequentiallyRename.bat) - Rename all files in the current directory to sequential numbers.
 - [TurnOnMobileHotspot.bat](TurnOnMobileHotspot.bat) - Turn on Windows mobile hotspot.
+- [WakeOnLan.bat](WakeOnLan.bat) - Send Wake-on-LAN magic packets.
 
 ## License
 
