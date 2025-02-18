@@ -11,6 +11,9 @@
 - [SequentiallyRename.bat](SequentiallyRename.bat) - カレントディレクトリ内の全てのファイルを連番にリネームします。
 - [TurnOnMobileHotspot.bat](TurnOnMobileHotspot.bat) - WindowsのモバイルホットスポットをONにします。
 - [WakeOnLan.bat](WakeOnLan.bat) - Wake-on-LANのマジックパケットを送信します。
+- [CreateScheduledTask.bat](CreateScheduledTask.bat) - タスクスケジューラのタスクを作成します。
+- [DeleteScheduledTask.bat](DeleteScheduledTask.bat) - タスクスケジューラのタスクを削除します。
+- [ToggleScheduledTask.bat](ToggleScheduledTask.bat) - タスクスケジューラのタスクを作成/削除します。
 
 ## ライセンス
 
